@@ -11,7 +11,6 @@ body {
 }
 .cabecalho {
   text-align: center;
-  color: #22d4fd;
   padding: 5% 0% 0% 20%;
 }
 .cabecalho__menu {
@@ -24,6 +23,8 @@ body {
   font-weight: 700;
   font-style: normal;
   font-size: 18px;
+  text-decoration: none;
+  color: #22d4fd;
 }
 .cabecalho__menu__link:hover {
   cursor: pointer;
