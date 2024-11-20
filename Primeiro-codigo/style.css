@@ -9,6 +9,25 @@ body {
   box-sizing: border-box;
   background-color: #46607a;
 }
+.cabecalho {
+  text-align: center;
+  color: #22d4fd;
+}
+.cabecalho__menu {
+  padding: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+}
+.cabecalho__menu__link {
+  padding: 10px 15px;
+}
+.cabecalho__menu__link:hover {
+  cursor: pointer;
+  color: #000000;
+}
 .apresentacao__conteudo__titulo {
   font-family: "Krona One", sans-serif;
   font-weight: 400;
@@ -76,6 +95,7 @@ body {
 .apresentacao__links__social:hover {
   cursor: pointer;
   background-color: #272727;
+  color: #000000;
 }
 .rodape {
   padding: 12px;
