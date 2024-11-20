@@ -74,3 +74,7 @@ body {
   font-weight: 600;
   font-style: normal;
 }
+.apresentacao__links__social:hover {
+  cursor: pointer;
+  background-color: #272727;
+}
