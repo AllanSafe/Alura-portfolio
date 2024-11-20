@@ -9,6 +9,8 @@ body {
   box-sizing: border-box;
   background-color: #46607a;
 }
+.cabecalho__menu__link__icon {
+}
 .cabecalho {
   text-align: center;
   padding: 5% 0% 0% 20%;
@@ -18,6 +20,8 @@ body {
   gap: 80px;
 }
 .cabecalho__menu__link {
+  display: flex;
+  align-items: center;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
