@@ -121,3 +121,24 @@ body {
   font-style: normal;
   font-size: 20px;
 }
+
+.apresentacao__conteudo__titulo__curriculo {
+  font: var(--font-primaria);
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  color: var(--cor-terciaria);
+}
+.apresentacao__conteudo__titulo__exp {
+  font: var(--font-secundaria);
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+}
+.apresentacao__conteudo__exp-formacoes {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0px;
+}
