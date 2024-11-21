@@ -1,4 +1,5 @@
 Projetos Alura
+
 Este repositório contém um aglomerado de projetos desenvolvidos seguindo as instruções dos cursos oferecidos pela instituição Alura. Cada projeto presente neste repositório visa aplicar e demonstrar os conceitos aprendidos durante as aulas.
 
 Estrutura do Repositório
