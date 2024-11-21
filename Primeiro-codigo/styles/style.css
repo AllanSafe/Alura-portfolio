@@ -122,7 +122,7 @@ body {
   font-size: 20px;
 }
 
-.apresentacao__conteudo__titulo__curriculo {
+.apresentacao__conteudo__subtitulos {
   font: var(--font-primaria);
   font-optical-sizing: auto;
   font-weight: 700;
@@ -138,7 +138,30 @@ body {
   font-size: 20px;
 }
 .apresentacao__conteudo__exp-formacoes {
-  display: flex;
-  flex-direction: column;
   padding: 15px 0px;
+}
+.link__projetos {
+  text-decoration: none;
+  color: var(--cor-secundaria);
+}
+.link__projetos:hover {
+  color: var(--cor-hover);
+}
+.projeto__descricao {
+  font-family: var(--font-secundaria);
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+  padding: 5px 0px;
+}
+.apresentacao__conteudo__projetos {
+  padding: 2px 0px;
+}
+.apresentacao__conteudo__subtitulos__projetos {
+  font: var(--font-primaria);
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
 }
