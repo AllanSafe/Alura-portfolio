@@ -1,21 +1,16 @@
-```
+# Portfólio
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+Olá, bem-vindo ao meu projeto de portfólio!
 
+## Ferramentas Utilizadas
 
+- **HTML**
+- **CSS**
+- **Flexbox**
 
-## Ferramentas utilizadas:
+## Feito por
 
-* HTML
+**Alan Ferreira**
 
-* CSS
+[LinkedIn](https://www.linkedin.com/in/devalanferreira/)
 
-* Flex-box
-
-## Feito por:
-
-### Alan Ferreira
-
-### Linkedin: https://www.linkedin.com/in/devalanferreira/
-
-```
